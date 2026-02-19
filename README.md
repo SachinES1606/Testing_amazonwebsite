@@ -49,26 +49,23 @@ This project is useful for:
 └── requirements.txt     # Dependencies (optional)
 
 ⚙️ Installation & Setup
-1️⃣ Clone the Repository
 
-git clone https://github.com/yourusername/amazon-automation-bot.git
-cd amazon-automation-bot
+1️⃣ Clone the Repository
+git clone https://github.com/SachinES1606/Testing_amazonwebsite/tree/main
+cd amazon-automation-testing
 
 2️⃣ Install Dependencies
-
 pip install selenium
-3️⃣ Download ChromeDriver
 
+3️⃣ Download ChromeDriver
 * Download the version matching your Chrome browser
 * Add it to PATH or project folder
   
 ▶️ How to Run
-
-python amazon_bot.py
-
+python testing_amazonwebsite.py
 The browser will open and automatically perform all actions.
-🧠 How It Works
 
+🧠 How It Works
 🪜 Step-by-Step Flow
 
 1. Launches Chrome browser
